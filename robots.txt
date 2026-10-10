@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mygongbu.kr/sitemap.xml
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://mygongbu.kr/sitemapx.xml
